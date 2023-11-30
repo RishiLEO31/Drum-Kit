@@ -1,0 +1,28 @@
+body{
+    background-color: #0a5f7c;
+}
+.drum{
+    height: 200px;
+    width: 200px;
+    border: 10px solid rgb(122, 41, 136);
+}
+img{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(176, 176, 176)
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+h1{
+    text-align: center;
+    font-size: 5rem;
+    color: #5bc60a;
+    font-family: "Arvo", Arial;
+    text-shadow: 3px 0 #DA0463;
+}
